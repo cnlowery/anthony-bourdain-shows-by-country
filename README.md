@@ -9,9 +9,6 @@ All data gathered from [https://thetvdb.com](https://thetvdb.com)
 * Mad Tony: The Food Warrior - _A Cook's Tour_ S02E08
 * Down Under: The Wild West of Cooking - _A Cook's Tour_ S02E09
 
-### Beirut
-* Anthony Bourdain in Beirut - _No Reservations_ Special
-
 ### Brazil
 * A Mystical World - _A Cook's Tour_ S02E03
 * How to Be a Carioca - _A Cook's Tour_ S02E04
@@ -88,6 +85,9 @@ All data gathered from [https://thetvdb.com](https://thetvdb.com)
 
 ### Laos
 * Laos - _No Reservations_ S04E11
+
+### Lebanon
+* Anthony Bourdain in Beirut - _No Reservations_ Special
 
 ### Malaysia
 * Malaysia (Into the Jungle) -  _No Reservations_ S01E05
